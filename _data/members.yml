@@ -1,6 +1,14 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Zilmar de Souza Junior
+  affiliation: Mozilla Brasil
+  github: zilmarr
+  interests:
+    - Programming
+    - Open Science
+    - Networking
+ 
+ - name: Maykon Chagas
+  affiliation: Mozilla Brasil
+  github: mchagas
   interests:
     - Programming
     - Open Science
